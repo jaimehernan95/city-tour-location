@@ -1,0 +1,26 @@
+{
+  "name": "cityserver",
+  "version": "1.0.0",
+  "description": "photo picker using google maps node+swift+firebase application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimehernan95/city-tour-location.git"
+  },
+  "author": "Jaime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimehernan95/city-tour-location/issues"
+  },
+  "homepage": "https://github.com/jaimehernan95/city-tour-location#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.10",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2"
+  }
+}
