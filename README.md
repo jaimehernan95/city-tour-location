@@ -150,6 +150,6 @@ module.exports = mongoose.model('tourLocations', tourApp);
 
 
 
-The next module is in SWIFT
+The next module is in SWIFT the code can be clonned from this. site
 
-
+https://github.com/jaimehernan95/photo-picker
