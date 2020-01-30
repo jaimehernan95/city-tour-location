@@ -60,7 +60,8 @@ module.exports = app;
 Routes
 -----
 
-will hold the collection tourLocations and objects where the user can enter information
+in this file we can declare our collection tourLocations and objects where the user can enter information it used the post method using the following objtecs:
+
         title,
         category,
         longitude,
@@ -70,7 +71,8 @@ will hold the collection tourLocations and objects where the user can enter info
         thumbnail,
 
 
-
+routes.js
+----------
 var express = require('express');
 
 var router = express.Router();
