@@ -18,7 +18,7 @@
   "homepage": "https://github.com/jaimehernan95/city-tour-location#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.8.10",
     "morgan": "^1.9.1",
     "nodemon": "^2.0.2"
